@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse AI",
+  "description": "Interactive Classroom & Adaptive Quiz Studio with material RAG, flashcards, adaptive quizzes, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
